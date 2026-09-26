@@ -1,2 +1,3 @@
 # Satria-Data
-Disusun Oleh: Muhammad Shafi Dhihar Athaya, Leornadus Hassan, Kelly Natalia 
+Submisi lomba Satria Data yang disusun Oleh: Muhammad Shafi Dhihar Athaya, Leornadus Hassan, Kelly Natalia
+
